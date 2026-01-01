@@ -9,6 +9,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".resulting"
+            android:exported="false" />
+        <activity
             android:name=".MainActivityConverter"
             android:exported="true">
             <intent-filter>
