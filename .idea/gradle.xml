@@ -11,7 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/calculator" />
             <option value="$PROJECT_DIR$/app/converter" />
+            <option value="$PROJECT_DIR$/app/expensify" />
             <option value="$PROJECT_DIR$/app/unitconverting" />
           </set>
         </option>
