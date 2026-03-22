@@ -110,6 +110,9 @@ public class ConstraintLayout extends AppCompatActivity {
             double result = expressionEval.calculate();
             textViewCalculating.setText(expression);
             textViewResult.setText(String.valueOf(result));
+            if(String.valueOf(result).length() > 8){
+                textViewResult.setText(String.valueOf(result).substring(0, 8));
+            }
         } catch (Exception e) {
             textViewResult.setText("Error");
         }

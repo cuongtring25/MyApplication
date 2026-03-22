@@ -11,9 +11,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/app/calculator" />
+            <option value="$PROJECT_DIR$/app/calendarnote" />
             <option value="$PROJECT_DIR$/app/converter" />
+            <option value="$PROJECT_DIR$/app/cooking" />
+            <option value="$PROJECT_DIR$/app/english" />
             <option value="$PROJECT_DIR$/app/expensify" />
+            <option value="$PROJECT_DIR$/app/quiz" />
+            <option value="$PROJECT_DIR$/app/quote" />
+            <option value="$PROJECT_DIR$/app/spotifylite" />
             <option value="$PROJECT_DIR$/app/unitconverting" />
           </set>
         </option>
